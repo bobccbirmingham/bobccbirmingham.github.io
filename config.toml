@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'BoB CC Birmingham Official Website'
+theme = "hugo-edge"
