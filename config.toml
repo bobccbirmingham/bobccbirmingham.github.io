@@ -1,4 +1,4 @@
-baseURL = 'https://bobccbirmingham.github.io/'
+baseURL = 'https://bobccbirmingham.github.io/website'
 languageCode = 'en-us'
 title = 'BoB CC Birmingham Official Website'
 theme = "hugo-edge"
